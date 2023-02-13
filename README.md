@@ -1,8 +1,4 @@
-<!-- ![junebeomlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junebeomlee&show_icons=true&theme=dark) -->
-
-### DEVELOPER
-  안녕하세요. 이준범입니다.
-
+![junebeomlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junebeomlee&show_icons=true&theme=dark)
 <span>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=round&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=round&logo=typescript&logoColor=white"/>
