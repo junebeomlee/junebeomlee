@@ -5,13 +5,7 @@
 <img src="https://img.shields.io/badge/pyhon-3776AB?style=round&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/dart-0175C2?style=round&logo=dart&logoColor=white"/>
 <span/>
-<!--  
-<pre><code>	{code}    </code></pre> 
 
-### junebeom lee
----
-
-- - -
  
 ```
   {
@@ -27,7 +21,13 @@
     "database": ["mongo", "mysql"]
   }
 }
-```
+``` 
+ 
+### junebeom lee
+---
+
+- - -
+
 | Week | 세미나 | 과제 |커리큘럼 내용 |
 | ------ | -- | -- |----------- |
 | 1주차 | ☑️ | ☑️ | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
