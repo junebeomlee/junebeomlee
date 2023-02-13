@@ -1,12 +1,9 @@
 <div>LANGUAGES</div>
-<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/[기술명]-[배경색]?style=[모양]&logo=[아이콘명]&logoColor=[글자색]"/>
-<img src="https://img.shields.io/badge/java-007396?style=round&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/pyhon-007396?style=round&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-007396?style=round&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-007396?style=round&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-007396?style=round&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-007396?style=round&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-ECD53F?style=round&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-0094F5?style=round&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-A100FF?style=round&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-0085CA?style=round&logo=dart&logoColor=white"/>
 
 
 
