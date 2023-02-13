@@ -23,7 +23,8 @@
   }
 }
 ```
-  
+
+<div>
 | Week | 세미나 | 과제 |커리큘럼 내용 |
 | ------ | -- | -- |----------- |
 | 1주차 | ☑️ | ☑️ | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
@@ -36,3 +37,4 @@
 | 8주차 |  |  |e기획 경선 + 앱잼 전 보충 세미나 + 앱스토어 배포 가이드  |
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junebeomlee&layout=compact&theme=dart)
+  </div>
