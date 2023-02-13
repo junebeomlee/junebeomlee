@@ -1,10 +1,9 @@
-<strong>LANGUAGES</strong>
 <span>
-<img src="https://img.shields.io/badge/javascript-ECD53F?style=round&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-0094F5?style=round&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-A100FF?style=round&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/pyhon-007396?style=round&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-0085CA?style=round&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=round&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=round&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/7F52FF-A100FF?style=round&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/pyhon-3776AB?style=round&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-0175C2?style=round&logo=dart&logoColor=white"/>
 <span/>
  
 ```
