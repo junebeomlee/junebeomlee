@@ -9,23 +9,17 @@
  
 ```
   {
-  "name": "cho, chan gi",
-  "position": "frontend developer",
+  "name": "junebeom lee",
   "tech-stack": {
     "frontend": [
       "typescript",
       "javascript",
       "react",
-      "redux",
-      "animation",
-      "socket"
+      "vue",
     ],
-    "backend": ["nodejs", "express", "socket"],
+    "backend": ["nodejs", "express", "nest"],
     "database": ["mongo", "mysql"]
-  },
-  "motto": "never stop, getting better",
-  "love": ["performance improvement", "share with others"],
-  "hobby": ["algorithm", "hiking"]
+  }
 }
 ```
 
