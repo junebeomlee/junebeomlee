@@ -9,6 +9,7 @@
 
 ```(javascript)
   {
-    name: "junebeom lee"
+    name: "junebeom lee",
+    
   }
 ```
