@@ -18,7 +18,7 @@
 커스텀 엘리먼트와 함수형 프로그래밍을 이융한 framework-agnostic 위젯 SDK 구현
 다양한 SPA(React, Vue, Angular) 프레임워크
 - CRUD 서버 개발, 헥사고날 패턴 이해
-- AWS, 클라우드
+- AWS, 클라우드, 트래픽 관리, 로드 밸런싱, 트랜잭션
 
 
 절차적 맵 생성 및 BT 개발을 통한 게임 구현
